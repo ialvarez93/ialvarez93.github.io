@@ -53,7 +53,7 @@
 </template>
 
 <script>
-import siteMetaInfo from "@/data/sitemetainfo";
+import siteMetaInfo from "@/data/siteMetaInfo";
 import BuyMeACoffee from "./BuyMeACoffee.vue";
 export default {
   data() {
