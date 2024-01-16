@@ -11,7 +11,7 @@ const siteMetaInfo = {
   language: "en-us",
   theme: "system", // system, dark or light
   siteUrl: "https://www.alvarezivan.net.ve",
-  siteRepo: "#",
+  siteRepo: "https://github.com/ialvarez93/ialvarez93.github.io",
   siteLogo: "../assets/author.png",
   image: "~/assets/author.png",
   socialBanner: "/static/images/twitter-card.png",
