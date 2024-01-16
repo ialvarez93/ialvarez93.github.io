@@ -1,7 +1,7 @@
 const projectsData = [
   {
     title: "Exchange Scraper",
-    description: `Web scraper for bcv org`,
+    description: `Web scraper for https://bcv.org.ve/. I'm working on making it a dockerize API`,
     imgSrc: "",
     href: "",
     github: "https://github.com/ialvarez93/Exchange_Scraper",
