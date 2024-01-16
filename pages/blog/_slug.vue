@@ -17,13 +17,13 @@
         <div class="text-slate-900 dark:text-slate-200">
           {{ siteMetadata.author }}
         </div>
-        <a
+        <!-- <a
           target="_blank"
           :href="siteMetadata.twitter"
           class="text-slate-500 hover:text-slate-600 dark:text-slate-400"
         >
           @{{ siteMetadata.twitter_user }}
-        </a>
+        </a> -->
       </div>
     </div>
     <img

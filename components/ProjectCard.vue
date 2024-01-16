@@ -26,7 +26,7 @@
                 rel="noopener noreferrer"
                 :href="projectGithub"
                 ><span class="sr-only">github</span
-                ><img class="w-6 h-6" src="~assets/icon/github_new.svg"
+                ><img class="w-6 h-6" src="~assets/icon/github.svg"
               /></a>
             </div>
           </div>

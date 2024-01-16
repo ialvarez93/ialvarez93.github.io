@@ -8,14 +8,14 @@
           rel="noopener noreferrer"
           :href="siteMetadata.github"
           ><span class="sr-only">github</span>
-          <img class="w-8 h-8" src="~assets/icon/github_new.svg" /> </a
+          <img class="w-8 h-8" src="~assets/icon/github.svg" /> </a
         ><a
           class="text-sm text-gray-500 transition hover:text-gray-600"
           target="_blank"
           rel="noopener noreferrer"
           :href="siteMetadata.linkedin"
           ><span class="sr-only">Linkedin</span>
-          <img class="w-8 h-8" src="~assets/icon/linkeding.svg" /> </a
+          <img class="w-8 h-8" src="~assets/icon/linkedin.svg" /> </a
         ><a
           class="text-sm text-gray-500 transition hover:text-gray-600"
           target="_blank"
@@ -44,7 +44,7 @@
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="https://github.com/mdrathik/tailwind-nuxtjs-starter-blog"
+          href={{ siteMetadata.siteRepo }}
         ></a>
       </div>
       <!-- <BuyMeACoffee></BuyMeACoffee> -->

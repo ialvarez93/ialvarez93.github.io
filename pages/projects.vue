@@ -48,7 +48,7 @@ export default {
       {
         hid: "description",
         name: "description",
-        content: "Some of Projects developed by Solaiman",
+        content: "Some of Projects developed by or with Ivan",
       },
     ],
     link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
