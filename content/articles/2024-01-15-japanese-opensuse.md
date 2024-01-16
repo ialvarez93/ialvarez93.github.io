@@ -7,7 +7,7 @@ image: https://images.unsplash.com/photo-1543966888-6e858b90d30d?q=80&w=2023&aut
 draft: false
 ---
 
-Photo by <a href="https://unsplash.com/@pinjasaur?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Paul Esch-Laurent</a> on <a href="https://unsplash.com/photos/orange-and-pink-computer-keyboard-zZlEcBxJ_Sw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Photo by [Paul Esch-Laurent](https://unsplash.com/@pinjasaur?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/orange-and-pink-computer-keyboard-zZlEcBxJ_Sw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
 ## Situation
 
