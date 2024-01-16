@@ -9,7 +9,6 @@ draft: false
 
 Photo by <a href="https://unsplash.com/@pinjasaur?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Paul Esch-Laurent</a> on <a href="https://unsplash.com/photos/orange-and-pink-computer-keyboard-zZlEcBxJ_Sw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
-
 ## Situation
 
 Recently I change from Ubuntu 22.10 to openSUSE Tumbleweed on my personal laptop. The wonderful thing about change is that always brings learning with it.
