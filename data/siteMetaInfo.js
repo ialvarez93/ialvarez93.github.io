@@ -3,7 +3,7 @@ const siteMetaInfo = {
   author: "Ivan Alvarez",
   author_image: "/author.png",
   position: "Full Stack Developer",
-  location: "Naguanagua, Carabobo",
+  location: "Valencia, Venezuela",
   headerTitle: "Ivan Alvarez",
   slogan: "Let's start coding",
   description:
