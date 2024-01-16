@@ -1,7 +1,7 @@
 import Prism from "prismjs";
 
 // Include the toolbar plugin: (optional)
-import "prismjs/plugins/toolbar/prism-toolbar";
+// import "prismjs/plugins/toolbar/prism-toolbar";
 
 // Include the line numbers plugin: (optional)
 import "prismjs/plugins/line-numbers/prism-line-numbers";
