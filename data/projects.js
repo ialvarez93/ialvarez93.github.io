@@ -1,17 +1,17 @@
 const projectsData = [
   {
-    title: "Exchange Scraper",
-    description: `Web scraper for https://bcv.org.ve/. I'm working on making it a dockerize API`,
+    title: "BCV Exchange Scraper",
+    description: `This is a simple web scraper built in Python with FastAPI. It scrapes data from the oficial website Banco Central de Venezuela and returns it in JSON format. Available with a docker image`,
     imgSrc: "",
-    href: "",
-    github: "https://github.com/ialvarez93/Exchange_Scraper",
+    href: "https://bcv.org.ve/",
+    github: "https://github.com/ialvarez93/bcv_scraper",
     tech1: "Python",
-    tech2: "Scrapy",
-    tech3: "SQLite",
+    tech2: "FastAPI",
+    tech3: "Docker",
   },
   {
     title: "Nuxt Tailwind Portfolio",
-    description: `This website. Improved the blog a lot, rebuilt with tailwind`,
+    description: `This website. Pending update to Nuxt 3`,
     imgSrc: "",
     href: "#",
     github: "https://github.com/ialvarez93/ialvarez93.github.io",
@@ -21,7 +21,7 @@ const projectsData = [
   },
   {
     title: "Nuxt Tailwind Landing Page",
-    description: `A simple landing page for my cousin who is a up and coming musician.`,
+    description: `A simple landing page for my cousin who is an up and coming musician.`,
     imgSrc: "",
     href: "https://jheypi.com/",
     github: "https://github.com/ialvarez93/jheypi",
