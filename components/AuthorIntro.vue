@@ -9,12 +9,8 @@
       various technologies in the PHP ecosystem to create customized and flexible E-commerce platforms.
       <br>
       <br>
-      I'm always eager to learn new technologies and frameworks, and I enjoy working in a collaborative and agile
-      environment. I'm looking for opportunities to apply my skills and experience to create impactful and user-friendly
-      solutions.
-      <br>
-      <br>
-      I am also a curious and avid reader, movie goer and Japanophile. I like to explore different cultures and
+      I am also a curious and avid reader, movie goer and Japanophile who likes to keep up with the latest trends and
+      developments in data engineering and related fields. I like to explore different cultures and
       perspectives, and I'm always open to new challenges.
     </p>
   </div>
