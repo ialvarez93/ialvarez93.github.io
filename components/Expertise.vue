@@ -16,23 +16,26 @@
           <Javascript class="h-10 w-10"></Javascript>
         </li>
         <li class="flex items-center">
+          <Typescript class="h-10 w-10"></Typescript>
+        </li>
+        <li class="flex items-center">
           <Vuejs class="h-10 w-10"></Vuejs>
         </li>
         <li class="flex items-center">
           <Nuxt class="h-10 w-10"></Nuxt>
         </li>
         <li class="flex items-center">
-          <Angular class="h-10 w-10"></Angular>
+          <TailwindCss class="h-10 w-10"></TailwindCss>
         </li>
         <li class="flex items-center">
           <Ionic class="h-10 w-10"></Ionic>
         </li>
+        <li class="flex items-center">
+          <Angular class="h-10 w-10"></Angular>
+        </li>
         <!-- <li class="flex items-center">
           <Bootstrap class="h-10 w-10"></Bootstrap>
         </li> -->
-        <li class="flex items-center">
-          <TailwindCss class="h-10 w-10"></TailwindCss>
-        </li>
       </ul>
     </div>
     <div class="mt-4">
@@ -66,6 +69,7 @@
 
 <script>
 import Javascript from "../assets/devicon/javascript.svg?inline";
+import Typescript from "../assets/devicon/typescript-plain.svg?inline";
 import Html from "../assets/devicon/html.svg?inline";
 import Css from "../assets/devicon/css.svg?inline";
 import Vuejs from "../assets/devicon/vuejs.svg?inline";
@@ -81,6 +85,7 @@ import Python from "../assets/devicon/python-plain.svg?inline";
 export default {
   components: {
     Javascript,
+    Typescript,
     Html,
     Css,
     Bootstrap,
