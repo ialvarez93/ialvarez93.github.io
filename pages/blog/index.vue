@@ -44,7 +44,7 @@ export default {
       {
         hid: "description",
         name: "description",
-        content: "Its Solaiman's Pen and Paper to write ",
+        content: "Let the logging begin!",
       },
     ],
     link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
