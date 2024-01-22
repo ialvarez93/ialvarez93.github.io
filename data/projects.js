@@ -21,7 +21,7 @@ const projectsData = [
   },
   {
     title: "Nuxt Tailwind Landing Page",
-    description: `A simple landing page for my cousin who is an up and coming musician.`,
+    description: `A simple landing page for my cousin who is an up and coming musician. (Under Construction, currently a Jekyll site).`,
     imgSrc: "",
     href: "https://jheypi.com/",
     github: "https://github.com/ialvarez93/jheypi",
