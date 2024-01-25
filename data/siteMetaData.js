@@ -1,5 +1,5 @@
 const siteMetadata = {
-  title: "Ivan Alvarez | Software Developer",
+  title: "Ivan Alvarez | Full Stack Developer",
   author: "Ivan Alvarez",
   author_image: "/author.png",
   position: "Full Stack Developer",
