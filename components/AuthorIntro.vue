@@ -11,7 +11,7 @@
       <br>
       As a junior full stack developer, I enjoy developing scalable web applications that can adapt to changing
       customer needs and market trends. I have hands-on experience in building composable commerce solutions, using
-      various technologies in the PHP ecosystem to create customized and flexible E-commerce platforms.
+      various technologies to create customized and flexible E-commerce platforms.
     </p>
   </div>
 </template>
