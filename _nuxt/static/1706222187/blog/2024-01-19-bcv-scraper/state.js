@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1706222187",layout:"default",error:a,serverRendered:true,routePath:"\u002Fblog\u002F2024-01-19-bcv-scraper",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"0fac3e9b"}},_img:{"/_ipx/_/author.png":"\u002F_nuxt\u002Fimage\u002Ff10964.png"}}}(null));
